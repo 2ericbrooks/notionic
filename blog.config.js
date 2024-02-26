@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '4eb.vercel.app',
+  title: '4eb',
   author: 'Eric B',
   email: 'amouage@proton.me',
   link: 'https://4eb.vercel.app',
@@ -20,8 +20,8 @@ const BLOG = {
     notes: true,
     projects: true,
     contact: true,
-    books: false,
-    friends: false
+    books: true,
+    friends: true
   },
   showWeChatPay: false,
   previewImagesEnabled: true,
