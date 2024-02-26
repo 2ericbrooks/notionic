@@ -17,7 +17,7 @@ const BLOG = {
   sortByDate: true,
   pagesShow: {
     newsletter: true,
-    notes: false,
+    notes: true,
     projects: true,
     contact: true,
     books: false,
@@ -45,7 +45,7 @@ const BLOG = {
   telegramChatId: '263895784', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
   telegramChannelName: 'ericb_me', // The name of your Telegram channel
-  craftConfigShareUrl: 'https://www.craft.do/s/', // The link to share your craft config
+  craftConfigShareUrl: 'https://4eb.craft.me/F28lVUe2DIBSjo', // The link to share your craft config
   analytics: {
     provider: '', // Currently we support Google Analytics, Ackee, Umami and Cloudflare Insights, please fill with 'ga' or 'ackee' or 'umami' or 'cf', leave it empty to disable it.
     ackeeConfig: {
